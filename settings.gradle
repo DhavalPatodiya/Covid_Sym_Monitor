@@ -1,3 +1,0 @@
-include ':app'
-rootProject.name='Covid_Sym_Monitor'
-include ':openCVLibrary3411'
