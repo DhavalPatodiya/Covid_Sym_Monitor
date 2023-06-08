@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment-1</string>
+    <string name="symptoms">SYMPTOMS</string>
+    <string name="measure_heart_rate">MEASURE HEART RATE</string>
+    <string name="measure_respiratory_rate">MEASURE_RESPIRATORY_RATE</string>
+    <string name="upload_symptoms">UPLOAD SYMPTOMS</string>
+    <string name="heart_rate">Your heart rate will be shown here!</string>
+    <string name="resp_rate">Your breath rate will be shown here!</string>
+    <string-array name="symptoms">
+        <item>Nausea</item>
+        <item>Headache</item>
+        <item>Diarrhea</item>
+        <item>Sore Throat</item>
+        <item>Fever</item>
+        <item>Muscle Ache</item>
+        <item>Smell Taste Loss</item>
+        <item>Cough</item>
+        <item>Shortness of breath</item>
+        <item>Feeling tired</item>
+        <item>Heart Rate</item>
+        <item>Respiratory Rate</item>
+    </string-array>
+</resources>
